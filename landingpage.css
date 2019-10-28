@@ -1,0 +1,23 @@
+#nav-bar {
+display: flex;
+position: fixed;
+  overflow: hidden;
+  background-color: rgba(0, 0, 0, 0.4);
+  border-style: solid;
+  border-width: 5px;
+  border-color: white;
+  font-family: Arial;
+  font-size: 20px;
+  top: 0;
+}
+#div {
+  height: 100vh;
+}
+
+#height {
+  height: 100vh;
+}
+
+#div {
+  height: 100vh;
+}
